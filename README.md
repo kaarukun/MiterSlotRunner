@@ -3,7 +3,7 @@ STL generator for miter slots
 
 https://www.thingiverse.com/thing:3973092
 
-Created a simple generator for a miter slot track. Based on the design by cdmakestuff shape.
+Created a simple generator for a miter slot track. Requires OpenSCAD to generate the STLs.
 
 Designed for:
 1/4" x 20 Hex Nut or Bolt
